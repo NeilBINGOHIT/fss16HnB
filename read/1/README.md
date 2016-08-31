@@ -4,21 +4,21 @@ Raymond P.L. Buse and Thomas Zimmermann. "Information Needs for Software Develop
 
 ###Keywords
 
-1. Cluster Analysis
+1. Cluster Analysis  
 Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters).
 
-2. Churn
+2. Churn  
 Your churn rate is the amount of customers or subscribers who cut ties with your service or company during a given time period. These customers have “churned”. Business people say an acceptable churn rate is in the 5 – 7% range annually, depending upon whether it measures customers or revenue.
 
-3. Telemetry
+3. Telemetry  
 Software Project Telemetry is a project management technique that uses software sensors to collect metrics automatically and unobtrusively. It then employs a domain-specific language to represent telemetry trends in software product and process metrics. Project management and process improvement decisions are made by detecting changes in telemetry trends and comparing trends between different periods of the same project. 
 
 ###Features
 
-1. Motivational Statement
+1. Motivational Statement  
 Software development involves making decisions based on metrics. The paper is motivated by the fact that software engineers do not have necessary tools and techniques to leverage metrics from the available information resources and use them to take concrete decisions. As a result, the authors have conducted a survey to present a spectrum of information needs and the corresponding insights gained from them. They also tried to comment on the design of the tools that should be made available to the community. 
 
-2. Study Instruments and Commentary
+2. Study Instruments and Commentary  
 To carry out analysis, the authors have used Kitchenham and Pfleeger's guidelines for personal opinion surveys. The survey consisted of 28 questions taken via emails from a random, equal-sized set of engineers and lead-engineers (managers) at Microsoft. They recorded both the importance and difficulty of answering questions in each domain. Importance-related questions were rated on a 4-point scale of Not-important, Somewhat-important, Important, Very-Important.
 
 ###Improvements
