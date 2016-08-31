@@ -2,5 +2,4 @@
 
 Group G
 
-Memebers : Shrenuj Gandhi
-         : Neng Jiang
+Memebers : Shrenuj Gandhi, Neng Jiang
