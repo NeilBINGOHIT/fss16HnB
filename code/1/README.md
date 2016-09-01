@@ -1,6 +1,5 @@
 # HW1
 
----
 ###eg0
 eg0 first prints the five attributes of the dataset. Then it prints the content which is formatted with proper spaces for a better view and which follows the alphabetical order of the attribute *outlook*. The most important work of eg0 is running a decision tree learner algorithm j48 with 10-fold cross validation on the data weather.arff. Therefore, a decision tree is given at last.
 
