@@ -1,10 +1,7 @@
 
 ###Paper
-<<<<<<< HEAD
-Raymond P.L. Buse and Thomas Zimmermann. "Information Needs for Software Development Analytics"
-=======
 Raymond P.L. Buse and Thomas Zimmermann. "Information Needs for Software Development Analytics", 2012
->>>>>>> refs/remotes/origin/master
+
 
 ###Keywords
 
@@ -35,7 +32,7 @@ Previous studies have identified information needs for managers for specific dec
 4. Informative Visualizations
 The paper includes 6 visualizations. Some of the basic graphs include importance of factors to decision making, importance of types of artifacts and preference of indicators/metrics amongst developers and managers from the survey. The most important is the table that summarizes what information (type : exploration, analysis and experimentation) should tools present to managers for past, present and future scenarios.
 
-![alt tag]()
+![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/1/Results.jpg)
 
 ###Improvements
 
