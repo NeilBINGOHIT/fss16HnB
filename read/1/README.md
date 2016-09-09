@@ -1,6 +1,10 @@
 
 ###Paper
+<<<<<<< HEAD
 Raymond P.L. Buse and Thomas Zimmermann. "Information Needs for Software Development Analytics"
+=======
+Raymond P.L. Buse and Thomas Zimmermann. "Information Needs for Software Development Analytics", 2012
+>>>>>>> refs/remotes/origin/master
 
 ###Keywords
 
