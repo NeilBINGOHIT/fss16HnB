@@ -1,6 +1,6 @@
 
 ###Paper
- "Information Needs for Software Development Analytics", by Raymond P.L. Buse and Thomas Zimmermann, presented in 34th International Conference on Software Engineering (ICSE), 2012.
+ ["Information Needs for Software Development Analytics"](http://ieeexplore.ieee.org/document/6227122/), by Raymond P.L. Buse and Thomas Zimmermann, presented in 34th International Conference on Software Engineering (ICSE), 2012.
 
 ###Keywords
 
