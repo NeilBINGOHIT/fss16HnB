@@ -36,10 +36,10 @@ The paper includes 6 visualizations. Some of the basic graphs include importance
 ###Improvements
 
 1. Small size of participants  
-The underlying hypothesis is that engineers lack the necessary tools and techniques to leverage metrics from the information resources, yet the survey was done only on 110 developers and managers. This number is extremely small compared to the number of software developers and managers in the world. Moreover, we know that socio-technical factors could play an important role. Confining the study only to Microsoft company, which has a specific hierarchy structure, raises doubt about the repeatability of the results. Taking more surveys from different companies with different management structures could help provide a better scenario.
+The underlying hypothesis is that engineers lack the necessary tools and techniques to leverage metrics from the information resources, yet the survey was done only on 110 developers and managers. This number is extremely small compared to the number of software developers and managers in the world.
 
 2. Questionable response of participants  
 Part of survey involved answering for each metric whether the participant used it or would use it if the metrics were made available. The second half of this question received more votes than the first half but this might be inaccurate as it is easy for some participants to show interest but difficult to adopt it in practice. Although the authors asked in general what decision analytics would help them with, they could have added another part to this question as to how the use of each metric would affect their decision.
 
 3. Repeatability of results  
-The authors have laid out a set of information needs and tool guidelines. But the results could have been more effective if the authors would have tested the same results on a different set of developers and managers (preferably from different company and/or different management structure).
+The authors have laid out a set of information needs and tool guidelines as a result of their survey. But, we know that socio-technical factors could play an important role. Confining the study only to Microsoft company, which has a specific hierarchy structure, raises doubt about the repeatability of the results. The results could have been more effective if the authors would have tested the results from their survey on a different set of developers and managers (preferably from different company and/or different management structure) to confirm their analysis.
