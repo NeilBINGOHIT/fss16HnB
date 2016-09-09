@@ -1,7 +1,6 @@
 
 ###Paper
-Raymond P.L. Buse and Thomas Zimmermann. "Information Needs for Software Development Analytics", 2012
-
+ "Information Needs for Software Development Analytics", by Raymond P.L. Buse and Thomas Zimmermann, presented in 34th International Conference on Software Engineering (ICSE), 2012.
 
 ###Keywords
 
@@ -15,7 +14,7 @@ Your churn rate is the amount of customers or subscribers who cut ties with your
 Software Project Telemetry is a project management technique that uses software sensors to collect metrics automatically and unobtrusively. It then employs a domain-specific language to represent telemetry trends in software product and process metrics. Project management and process improvement decisions are made by detecting changes in telemetry trends and comparing trends between different periods of the same project. 
 
 4. GQM Paradigm  
-GQM stands for "goal, question, metric". It is an approach to software metrics which consists of six-steps. The first three steps are about using business goals to drive the identification of the right metrics and the last three steps are about gathering the measurement data and making effective use of the measurement results to drive decision making and improvements. For details see [https://en.wikipedia.org/wiki/GQM wiki].
+GQM stands for "goal, question, metric". It is an approach to software metrics which consists of six-steps. The first three steps are about using business goals to drive the identification of the right metrics and the last three steps are about gathering the measurement data and making effective use of the measurement results to drive decision making and improvements. For details see [[https://en.wikipedia.org/wiki/GQM wiki]].
 
 
 ###Features
