@@ -28,7 +28,7 @@ To carry out analysis, the authors have used Kitchenham and Pfleeger's guideline
 3. Related Work  
 Previous studies have identified information needs for managers for specific decision-making tasks. Jedlitschka identified information needs of managers and showed empirical data on how these needs have impact on cost, quality and schedule. Other people have proposed questions that managers should ask which would help them gather relevant data and make decision. Related work was also done in building an experience factory, where not only data but experiences from projects were collected and reused to make decisions.
 
-4. Informative Visualizations
+4. Informative Visualizations  
 The paper includes 6 visualizations. Some of the basic graphs include importance of factors to decision making, importance of types of artifacts and preference of indicators/metrics amongst developers and managers from the survey. The most important is the table that summarizes what information (type : exploration, analysis and experimentation) should tools present to managers for past, present and future scenarios.
 
 ![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/1/Results.jpg)
