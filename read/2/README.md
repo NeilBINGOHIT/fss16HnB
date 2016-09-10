@@ -13,7 +13,7 @@ The goal of this paper is to systematically investigate the role of refactorings
 API-Level refactoring are rename refactorings at the level of packages/classes/methods, add/delete parameter refactorings, move refactoring at the level of packages/classes/methods and changes to the return type of a method.
 
 2. Floss Refactoring  
-There are two different occasions when programmers refactor. The first kind occurs interweaved with normal program development, arising whenever and wherever design problems arise. For example, if a programmer introduces (or is about to introduce) duplication when adding a feature, then the programmer removes that duplication. This kind of refactoring, done frequently to maintain healthy software, we shall call [floss refactoring](http://people.engr.ncsu.edu/ermurph3/papers/wrt07.pdf).
+There are two different occasions when programmers refactor. The first kind occurs interweaved with normal program development, arising whenever and wherever design problems arise. For example, if a programmer introduces (or is about to introduce) duplication when adding a feature, then the programmer removes that duplication. This kind of refactoring, done frequently to maintain healthy software, is called [floss refactoring](http://people.engr.ncsu.edu/ermurph3/papers/wrt07.pdf).
 
 3. Change Distilling  
 It is a tree differencing algorithm for fine-grained source code change extraction. It was published in [IEEE transactions to Software Engineering](http://dl.acm.org/citation.cfm?id=1314081). 
@@ -30,20 +30,20 @@ Weissgerber and Diehl found that a high ratio of refactorings is sometimes follo
 
 3.	Hypotheses  
 The authors focused their efforts to answer the following questions from the gathered data
--	Are there more bug fixes after API-level refactorings? 
--	Do API-level refactorings improve developer productivity? 
--	Do API-level refactoring facilitate bug fixes? 
--	Are there relatively fewer API-level refactorings before major releases? 
+ * Are there more bug fixes after API-level refactorings? 
+ * Do API-level refactorings improve developer productivity? 
+ * Do API-level refactoring facilitate bug fixes? 
+ * Are there relatively fewer API-level refactorings before major releases? 
 
 4.	Study Instruments and Commentary  
 The author’s applied M. Kim et al.’s refactorings reconstruction technique to find revisions that underwent refactoring and S. Kim et al.’s bug history extraction technique to identify bug fix revisions. The refactorings are used for this study are from change logs of Eclipse JDT, jEdit and Columba.
 
 5.	Results  
 Results of relationship between refactorings and bug reports include in-depth knowledge regarding the following questions
--	Are there more bug fixes after API-level refactorings? Yes, there is a short-term increase in the number of bug fixes after refactorings.
--	Do API-level refactorings improve developer productivity? Yes, when it comes to fixing bugs introduced near the time of refactorings, the average fix time tends to decrease after refactorings.
--	Do API-level refactoring facilitate bug fixes? Yes, Fixes and refactoring often appear in the same revision. Furthermore, it is more likely for a refactoring revision to be followed by related bug fixes than for a non-refactoring revision.
--	Are there relatively fewer API-level refactorings before major releases? No, there are more refactorings and bug fixes prior to major version release.
+ * Are there more bug fixes after API-level refactorings? Yes, there is a short-term increase in the number of bug fixes after refactorings.
+ * Do API-level refactorings improve developer productivity? Yes, when it comes to fixing bugs introduced near the time of refactorings, the average fix time tends to decrease after refactorings.
+ * Do API-level refactoring facilitate bug fixes? Yes, Fixes and refactoring often appear in the same revision. Furthermore, it is more likely for a refactoring revision to be followed by related bug fixes than for a non-refactoring revision.
+ * Are there relatively fewer API-level refactorings before major releases? No, there are more refactorings and bug fixes prior to major version release.
 
 ###Improvements
 
