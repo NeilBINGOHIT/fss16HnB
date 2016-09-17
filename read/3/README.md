@@ -4,7 +4,7 @@
 ###Summary
 The paper talks about using the GQM+ (goals, question, metric) paradigm to measure the success of goals and strategies on all organizational levels.
 
-This strategy helps to decide when and how to transform goals into operations and how to evaluate the success of strategies w.r.t those goals.
+This strategy helps to decide when and how to transform goals into operations and how to evaluate the success of strategies with respect to those goals.
 
 Steps to use this model (The model goes from left to right and top to bottom. See Figure 2 in the paper)
 
