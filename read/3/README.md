@@ -8,20 +8,14 @@ This strategy helps to decide when and how to transform goals into operations an
 
 Steps to use this model (The model goes from left to right and top to bottom. See Figure 2 in the paper)
 
-1.	The starting point of GQM+ Strategies is a business goal. Along with this, it requires explicit documentation of relevant context factors and assumptions necessary for understanding and evaluating goals. Use the business goal template for documentation (Figure 3 in paper).
-
-2.	The next step is to ask questions necessary to interpret the goal.
-
+1.	The starting point of GQM+ Strategies is a business goal. Along with this, it requires explicit documentation of relevant context factors and assumptions necessary for understanding and evaluating goals. Use the business goal template for documentation (Figure 3 in paper).  
+2.	The next step is to ask questions necessary to interpret the goal.  
 3.	The questions will yield metrics required to measure the goal and an interpretation that provides the information whether the goal 
-is achieved or not.
-
-4.	Finally, list all the possible strategies and select one for implementation.
-
-5.	At the next level down in the model, a software development goal is derived from the strategy.
-
-6.	Steps 2-4 are repeated for this level.
-
-7.	Similarly, project level goal is derived and Steps 2-4 are followed
+is achieved or not.  
+4.	Finally, list all the possible strategies and select one for implementation.  
+5.	At the next level down in the model, a software development goal is derived from the strategy.  
+6.	Steps 2-4 are repeated for this level.  
+7.	Similarly, project level goal is derived and Steps 2-4 are followed  
 
 ###Keywords
 1.	Business Alignment   
