@@ -22,7 +22,7 @@ is achieved or not.
 This phrase is used to talk about aligning the business goal with software development strategies.
 
 2.	Capability Maturity Model Integration (CMMI)  
-CMMI is a process improvement training and appraisal program. CMMI models provide guidance for developing or improving processes that meet the business goals of an organization. The model has maturity levels from 1-5 namely Initial, Managed, Defined, Quantitatively Manage and Optimizing. See [wiki]( https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration#Maturity_levels_in_CMMI_for_services) for details regarding the maturity models.
+CMMI is a process improvement training and appraisal program. CMMI models provide guidance for developing or improving processes that meet the business goals of an organization. The model has maturity levels from 1-5 namely Initial, Managed, Defined, Quantitatively Managed and Optimizing. See [wiki]( https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration#Maturity_levels_in_CMMI_for_services) for details regarding the maturity models.
 
 3.	MoSCoW  
 It is a prioritization approach for requirements and release planning. The term MoSCoW is derived from the first letter of each of four prioritization categories – Must have, Should have, Could have, Would like but won’t get. Developers will initially try to deliver all the Must have, Should have, and Could have requirements but the Should and Could requirements will be the first to be removed if the delivery timescale looks threatened. For details see [wiki](https://en.wikipedia.org/wiki/MoSCoW_method)
