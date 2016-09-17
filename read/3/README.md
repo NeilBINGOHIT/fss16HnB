@@ -45,12 +45,10 @@ The paper talks about related measurement programs like GQM, BSC, and PSM. GQM a
 
 3.	Informative Visualizations  
 The paper has a list of figures and tables explaining GQM+ strategies and their ongoing applications. The following figure depicts the eight conceptual components, that form basis for constructing a consistent model, and how these components interrelate. The eight components are business goals, context factors, assumptions, strategies, level i goals, interpretation models, goal+ Strategies elements and GQM graph.
-
 ![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/3/Figure%201.jpg)
 
 4. Tutorial Materials    
 The paper takes on a sample application and teaches how to apply the GQM+ Strategy. The authors start with a business goal of “increasing profit from software service usage”. They build assumptions, questions, metrics and interpretation models around it. They then derive lower level goals and perform the same task. Finally relate how the lower tasks will help determine the success of the higher level goals. The following figure depicts the outcome of the application. 
-
 ![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/3/Figure%202.jpg)
 
 ###Improvements
