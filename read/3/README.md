@@ -52,5 +52,5 @@ The users are supposed to make assumptions and select strategies that work best.
 2.	Effectiveness of GQM+ approach  
 The paper offers a list of industries that have adopted the GQM+ paradigm but it might make more impact on the readers if the authors had provided supporting data of the effectiveness of the method.
 
-3.	User side mistakes between linking goals and sub-goals  
-The paper also fails to point out the importance of determining goals and strategies. Mentioning a list of heuristics or defining who should be responsible for coming up with the correct and effective goals and strategies would help new engineers to pick up this method. The model is more likely to fail, when a person with a weak understanding of the links between the goals and strategies takes charge. 
+3.	User lacking knowldege of linking goals and strategies   
+The paper also fails to point out the importance of determining goals and strategies. Mentioning a list of heuristics or defining who should be responsible for coming up with the correct and effective goals and strategies would help new engineers to pick up this method. The model is more likely to fail, when a person taking charge has a weak understanding of the links between the goals and strategies. 
