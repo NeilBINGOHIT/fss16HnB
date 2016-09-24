@@ -1,5 +1,4 @@
-##Project
---
+#Project
 Our project will be based on the following paper:
 
 [An Empirical Investigation into the Role of API-Level Refactorings during Software Evolution](http://ieeexplore.ieee.org.prox.lib.ncsu.edu/stamp/stamp.jsp?arnumber=6032454), 
