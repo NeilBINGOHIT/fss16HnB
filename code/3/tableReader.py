@@ -37,9 +37,9 @@ class Table:
             i += 1
 
     UNKNOWN = "?"
-    def distance(i,r1,r2,f=2):
+    def distance(self,r1,r2,f=2):
         d,n = 0, 10**-32
-        for col in i.cols:
+        for col in self.cols:
             x, y  = r1[col.pos], r2[col.pos]
             if x is UNKNOWN and y is UNKNOWN:
                 continue
@@ -50,7 +50,7 @@ class Table:
             d    += inc
         return (d**(1/f)) / (n**(1/f))
 
-
+    
 
 if __name__ == '__main__':
     file = 'weather.csv'
