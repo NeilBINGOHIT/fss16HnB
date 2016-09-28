@@ -9,6 +9,7 @@
   - Panic and make noise.
 
 ###ZeroR Classifier
+
 The following is the modified lines in ninja.rc
 ```
 # zeror() {
@@ -57,4 +58,15 @@ rank ,         name ,    med   ,  iqr
    2 ,         jrip ,       9  ,    10 (  ---        * |------        ), 2.00,  4.00,  9.00, 11.00, 15.00
    2 ,       rbfnet ,       9  ,     5 (     -----   * |----          ), 4.00,  7.00,  9.00, 11.00, 14.00
    2 ,         bnet ,      11  ,     6 (        -----  |*   ------    ), 6.00,  9.00, 11.00, 14.00, 18.00
+```
+
+###Table Reader
+
+The output of the results of reading weather.csv
+```
+outlook        Mode            sunny     Entropy:              1.577406
+?temperature-  Mean        73.571429     Standard Deviation:   6.571667
+<humidity      Mean        81.642857     Standard Deviation:  10.285218
+windy          Mode            FALSE     Entropy:              0.985228
+=play          Mean         1.071429     Standard Deviation:   0.997249
 ```

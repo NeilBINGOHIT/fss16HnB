@@ -38,6 +38,6 @@ def csv(file):
   for row in rows(file, prep=atoms):
     yield row
 
-# if __name__ == '__main__':
-#   for row in csv('../data/weather.csv'):
-#     print(row)
+if __name__ == '__main__':
+  for row in csv('../data/weather.csv'):
+    print(row)
