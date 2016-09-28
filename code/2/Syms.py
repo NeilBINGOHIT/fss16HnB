@@ -23,9 +23,5 @@ class Sym:
         tmp -= p*math.log(p,2)
     return tmp
 
-  def norm(i,x)   : return x
-  def dist(i,x,y) : return 0 if x==y else 1
-  def furthest(i,x): return "SoMEcrazyTHing"
-  
   def show(i):
     return '{:10s} {:>10s} {:23s} {:10.6f}'.format('Mode', str(i.mode), '    Entropy: ', i.ent())
