@@ -35,4 +35,4 @@ class Num:
     return i.up if x <(i.up-i.lo)/2 else i.lo
     
   def show(i):
-    print "Mean: " + str(i.mu) + "\tStandard Deviation: " + str(i.sd())
+    return '{:10s} {:10.6f} {:10s} {:10.6f}'.format('Mean', i.mu, '    Standard Deviation:', i.sd())
