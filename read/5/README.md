@@ -31,7 +31,7 @@ The full list of 145 questions is provided on this [page](https://www.microsoft.
 4.	Patterns  
 The authors received 728 items in 203 responses in the first survey. In order to categorize they used the open card sort technique. Card sorting is a technique that is widely used to create mental models and derive taxonomies from data. In this case, card sorting also helps us to deduce a higher level of abstraction and identify common themes. 
 
-...Card sorting has three phases: in the preparation phase, cards for each question written by the respondents are created; in the execution phase cards are sorted into meaningful groups with a descriptive title; finally, in the analysis phase, abstract hierarchies are formed in order to deduce general categories and themes. 
+   Card sorting has three phases: in the preparation phase, cards for each question written by the respondents are created; in the execution phase cards are sorted into meaningful groups with a descriptive title; finally, in the analysis phase, abstract hierarchies are formed in order to deduce general categories and themes. 
 
 5.	Visualizations  
 The following affinity diagram summarizes the list of popular activities (in oval shape) that drew the attention of the respondents which are classified based on the job role (in box shape).
