@@ -5,16 +5,19 @@
 Software engineers have long been interested in where and why bugs occur in code and in predicting where they might turn up next. Researchers have used bug tracking systems and code version histories as source of bug data to test their hypothesis and build statistical bug prediction models. But the authors have questioned the integrity of the bug fixes records/datasets and asked are they fair representation of the full population of bug fixes?
  
 ###Keywords
-1.	Sampling Bias  
+
+1.	Sampling Bias 
 When the data gathered does not represent the full population the sampling bias is said to be introduced. Sampling bias makes truly random sample impossible.
 
-2.	Hypothesis Testing  
+2.	Hypothesis Testing 
 Hypothesis testing is a method in which data is gathered relative to a proposed hypothesis and statistical methods are used to confirm or refute the hypothesis with a given degree of confidence.
 
 3.	Commit Feature Bias
+It is likely that certain types of commit features are systematically over-represented or under-represented among the linked bugs. This representation is termed as commit feature bias.
+
 4.	Bug Feature Bias
-5.	False negative and false positives
-6.	P-values
+It is likely that the properties of linked bugs look just like the properties of all fixed bugs. The authors define bug feature bias as over or under representing the linked bugs in the sample.
+
 
 ###Features
 
@@ -36,4 +39,22 @@ To validate the data retrieved, the authors manually scanned a random sample for
 
 ###Improvements
 
-1.	What if the authors did hypothesis testing on the wrong data set
+1.	What if the authors did hypothesis testing on the wrong data set?
+The authors acknowledge the fact that there is a possibility of coincidences in bug-occurrence and linking.
+
+2.	Manual inspection for false positives and false negatives
+The manual verification of finding false positives and false negatives may yield subjective results
+
+3.	Proving that unbiased data negates the original hypothesis
+The authors proved that biased data can affect the prediction model but with lack of unbiased data they were not able to prove that the prediction model performs better for unbiased data set.
+
+###Results
+•	Experiment on BugCache, a defect prediction model, shows how a biased training set can affect the prediction. As a baseline the authors performed training and evaluating w.r.t. bug severity on the entire set of linked bugs (a). This gave them a recall of around 90% for all categories. But when they train BugCache on a baised training set the evaluations (recall value) are skewed.
+•	Thus severity bug feature bias is affecting the performance of BugCache in this case.
+
+###Conclusion/Take Away
+•	Predictions made from samples can be wrong, if the samples are not representative of the population. 
+•	Data generation process, in this case defect handling, varies among different projects.
+
+
+
