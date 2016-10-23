@@ -32,9 +32,7 @@ The authors have used [Eclipse](http://www.st.cs.uni-saarland.de/softevo/bug-dat
 
 4.	Patterns  
 The authors have described patterns for data retrieval and preprocessing. They extracted change histories from source code management system (SCM) commit logs. Information included commit date, committer identity, lines changes and log messages. In addition to this information, they also collected information on rework like new commit changes. This required origin analysis which involved converting CVS and SVN repositories into git. Regarding bugs, they extracted information related to opening, closing, reopening, assignment, severity, comments, time and initiator of every event.
-
 The authors also adopted Fisher et al.’s technique of finding links between commit and bug report. The technique involves searching the commit log messages for valid bug report references. But the authors made several changes to decrease the number of false negative links. (see steps mentioned on page 5)
-
 To validate the data retrieved, the authors manually scanned a random sample for false positives and false negatives.
 
 ###Improvements
@@ -49,12 +47,17 @@ The manual verification of finding false positives and false negatives may yield
 The authors proved that biased data can affect the prediction model but with lack of unbiased data they were not able to prove that the prediction model performs better for unbiased data set.
 
 ###Results
-•	Experiment on BugCache, a defect prediction model, shows how a biased training set can affect the prediction. As a baseline the authors performed training and evaluating w.r.t. bug severity on the entire set of linked bugs (a). This gave them a recall of around 90% for all categories. But when they train BugCache on a baised training set the evaluations (recall value) are skewed.
-•	Thus severity bug feature bias is affecting the performance of BugCache in this case.
+
+1. Experiment on BugCache, a defect prediction model, shows how a biased training set can affect the prediction. As a baseline the authors performed training and evaluating w.r.t. bug severity on the entire set of linked bugs (a). This gave them a recall of around 90% for all categories. But when they train BugCache on a baised training set the evaluations (recall value) are skewed.
+
+![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/3/Figure%201.jpg)
+
+2. Thus severity bug feature bias is affecting the performance of BugCache in this case.
 
 ###Conclusion/Take Away
-•	Predictions made from samples can be wrong, if the samples are not representative of the population. 
-•	Data generation process, in this case defect handling, varies among different projects.
+
+1. Predictions made from samples can be wrong, if the samples are not representative of the population. 
+2. Data generation process, in this case defect handling, varies among different projects.
 
 
 
