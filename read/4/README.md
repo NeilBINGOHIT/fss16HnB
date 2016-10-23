@@ -50,7 +50,7 @@ The authors proved that biased data can affect the prediction model but with lac
 
 1. Experiment on BugCache, a defect prediction model, shows how a biased training set can affect the prediction. As a baseline the authors performed training and evaluating w.r.t. bug severity on the entire set of linked bugs (a). This gave them a recall of around 90% for all categories. But when they train BugCache on a baised training set the evaluations (recall value) are skewed.
 
-![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/3/Figure%201.jpg)
+![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/tree/shrenuj/read/4/Figure%201.jpg)
 
 2. Thus severity bug feature bias is affecting the performance of BugCache in this case.
 
