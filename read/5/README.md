@@ -4,7 +4,7 @@
 ###Summary
 The paper is about two surveys related to data science applied to software engineering. The first survey solicited questions that software engineers would like to ask data scientists to investigate about software, software processes and practices. This yielded 145 questions grouped in 12 categoriesThe second survey asked a different pool of software engineers to rate the 145 questions. Respondents favored questions that focus on how customers typically use their applications. The idea behind categorizing and cataloging 145 questions is to help researchers, practitioners, and educators to more easily focus on their efforts on topics that are important to the software industry.
 
-<div style="text-align:center"><img style="text-align:center" src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%201.jpg" width="400"/></div>
+<div style="text-align:center;"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%201.jpg" width="400"></div>
 
 ###Keywords
 
@@ -23,7 +23,7 @@ It is a subfield of analytics with the focus on software data.
 The data science stream is growing. All businesses want to use analytics to better reach their customers. As a result, there are keynote speeches and panel talks about how to make the software engineering community more data-driven. With this survey the authors have given the software developers a chance to express their doubts regarding to data-science. 
 
 2.	Related Work  
-With the big data boom, several research groups pushed for more use of data for decision making, and shared their experiences collaborating with industry on analytics projects.  Zhang et al. emphasized the trinity oh software analytics in the form of three research topics (development process, system, users) as well as three technology pillars (information visualizations, analysis algorithms, large-scale computing). Buse and Zimmermann argued for a dedicated analyst role in software projects and presented an empirical survey on guidelines for analytics in software development ( [original paper](https://github.com/NeilBINGOHIT/fss16gNS/tree/master/read/1) )
+With the big data boom, several research groups pushed for more use of data for decision making, and shared their experiences collaborating with industry on analytics projects.  Zhang et al. emphasized the trinity oh software analytics in the form of three research topics (development process, system, users) as well as three technology pillars (information visualizations, analysis algorithms, large-scale computing). Buse and Zimmermann argued for a dedicated analyst role in software projects and presented an empirical survey on guidelines for analytics in software development ([original paper](https://github.com/NeilBINGOHIT/fss16gNS/tree/master/read/1))
 
 3.	Data  
 The full list of 145 questions is provided on this [page](https://www.microsoft.com/en-us/research/publication/appendix-to-analyze-this-145-questions-for-data-scientists-in-software-engineering/) under the Related Info tab.
