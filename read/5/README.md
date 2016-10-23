@@ -59,7 +59,7 @@ The authors in this paper tried to understand the questions that software engine
 
 2.	First survey yielded questions which were cataloged into the following categories
 
-<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg" width="300"/></div>
+<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%202.jpg" width="300"/></div>
 
 3.	Top 24 desired questions (rated essential or worthwhile) 
 
