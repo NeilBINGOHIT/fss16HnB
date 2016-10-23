@@ -8,14 +8,21 @@ The paper is about two surveys related to data science applied to software engin
 
 ###Keywords
 
-1.	Software Analytics
+1.	Software Analytics  
 It is a subfield of analytics with the focus on software data.
 
 2.	Affinity Chart
+The affinity diagram is a business tool used to organize ideas and data. The affinity diagram organizes ideas with following steps:  
+   
+   Record each idea on cards or notes.  
+   Look for ideas that seem to be related.  
+   Sort cards into groups until all cards have been used.
 
-3. TBD
+3. Churn  
+Your churn rate is the amount of customers or subscribers who cut ties with your service or company during a given time period. These customers have “churned”. Business people say an acceptable churn rate is in the 5 – 7% range annually, depending upon whether it measures customers or revenue.
 
-4. TBD
+4. Telemetry  
+Software Project Telemetry is a project management technique that uses software sensors to collect metrics automatically and unobtrusively. It then employs a domain-specific language to represent telemetry trends in software product and process metrics. Project management and process improvement decisions are made by detecting changes in telemetry trends and comparing trends between different periods of the same project.
 
 ###Features
 
