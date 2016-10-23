@@ -25,21 +25,21 @@ It is a subfield of analytics with the focus on software data.
 
 ###Features
 
-1.	Motivational Statement 
+1.	Motivational Statement  
 The data science stream is growing. All businesses want to use analytics to better reach their customers. As a result, there are keynote speeches and panel talks about how to make the software engineering community more data-driven. With this survey the authors have given the software developers a chance to express their doubts regarding to data-science. 
 
-2.	Related Work 
+2.	Related Work  
 With the big data boom, several research groups pushed for more use of data for decision making, and shared their experiences collaborating with industry on analytics projects.  Zhang et al. emphasized the trinity oh software analytics in the form of three research topics (development process, system, users) as well as three technology pillars (information visualizations, analysis algorithms, large-scale computing). Buse and Zimmermann argued for a dedicated analyst role in software projects and presented an empirical survey on guidelines for analytics in software development (original paper [https://github.com/NeilBINGOHIT/fss16gNS/tree/master/read/1])
 
-3.	Data 
+3.	Data  
 The full list of 145 questions is provided on this page [https://www.microsoft.com/en-us/research/publication/appendix-to-analyze-this-145-questions-for-data-scientists-in-software-engineering/] under the Related Info tab.
  
-4.	Patterns 
+4.	Patterns  
 The authors received 728 items in 203 responses in the first survey. In order to categorize they used the open card sort technique. Card sorting is a technique that is widely used to create mental models and derive taxonomies from data. In this case, card sorting also helps us to deduce a higher level of abstraction and identify common themes. 
 
 Card sorting has three phases: in the preparation phase, cards for each question written by the respondents are created; in the execution phase cards are sorted into meaningful groups with a descriptive title; finally, in the analysis phase, abstract hierarchies are formed in order to deduce general categories and themes. 
 
-5.	Visualizations
+5.	Visualizations  
 The following affinity diagram summarizes the list of popular activities (in oval shape) that drew the attention of the respondents which are classified based on the job role (in box shape).
 
 ![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg)
@@ -56,7 +56,7 @@ Since the idea to help researchers, practitioners and educators improve their fo
 3.	Taking input from data scientists
 The motivation is to make software processes more data driven. Then why not include the opinion of data scientists (since they are also part of the organization and possess knowledge about the processes). The authors could have collaborated with data scientists to rate the questions. Moreover, they could also have created a reverse survey where data scientists ask the questions regarding current software practices and then told the data scientists to analyze how these practices could be transformed into data driven practices.
 
-###Connection to Paper 1 [https://github.com/NeilBINGOHIT/fss16gNS/tree/master/read/1]
+###Connection to Paper 1[https://github.com/NeilBINGOHIT/fss16gNS/tree/master/read/1]
 
 The authors in this paper tried to understand the questions that software engineers would like to ask to data scientists about software. To me, this paper seems to be inspired from the paper [http://dl.acm.org/citation.cfm?id=2337343], where the authors have surveyed 110 software developers to present a spectrum of information needs and the corresponding insights gained from them. Moreover, the authors categorized those information needs into 9 categories. Interestingly, Thomas Zimmermann, co-author of that paper.
 
@@ -64,6 +64,7 @@ The authors in this paper tried to understand the questions that software engine
 1.	The findings suggest that engineers favor questions that focus on how customers typically use their applications. Also there was opposition against the use of analytics to assess the performance of individual employees or compare them with one another. 
 
 2.	First survey yielded questions which were cataloged into the following categories
+
 ![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg)
 
 3.	Top 24 desired questions (rated essential or worthwhile)   
