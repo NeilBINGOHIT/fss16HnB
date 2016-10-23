@@ -13,10 +13,9 @@ It is a subfield of analytics with the focus on software data.
 
 2.	Affinity Chart
 The affinity diagram is a business tool used to organize ideas and data. The affinity diagram organizes ideas with following steps:  
-   
-   Record each idea on cards or notes.  
-   Look for ideas that seem to be related.  
-   Sort cards into groups until all cards have been used.
+      Record each idea on cards or notes.  
+      Look for ideas that seem to be related.  
+      Sort cards into groups until all cards have been used.
 
 3. Churn  
 Your churn rate is the amount of customers or subscribers who cut ties with your service or company during a given time period. These customers have “churned”. Business people say an acceptable churn rate is in the 5 – 7% range annually, depending upon whether it measures customers or revenue.
