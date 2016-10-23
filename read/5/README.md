@@ -4,7 +4,7 @@
 ###Summary
 The paper is about two surveys related to data science applied to software engineering. The first survey solicited questions that software engineers would like to ask data scientists to investigate about software, software processes and practices. This yielded 145 questions grouped in 12 categoriesThe second survey asked a different pool of software engineers to rate the 145 questions. Respondents favored questions that focus on how customers typically use their applications. The idea behind categorizing and cataloging 145 questions is to help researchers, practitioners, and educators to more easily focus on their efforts on topics that are important to the software industry.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%201.jpg" width="400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%201.jpg" width="400">
 
 ###Keywords
 
@@ -36,7 +36,7 @@ The authors received 728 items in 203 responses in the first survey. In order to
 5.	Visualizations  
 The following affinity diagram summarizes the list of popular activities (in oval shape) that drew the attention of the respondents which are classified based on the job role (in box shape).
 
-<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg" width="500"/></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg" width="500"/>
 
 ###Improvements
 
@@ -59,7 +59,7 @@ The authors in this paper tried to understand the questions that software engine
 
 2.	First survey yielded questions which were cataloged into the following categories
 
-   <div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%202.jpg" width="500"/></div>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%202.jpg" width="500"/>
 
 3.	Top 24 desired questions (rated essential or worthwhile) 
 
