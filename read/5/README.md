@@ -4,7 +4,7 @@
 ###Summary
 The paper is about two surveys related to data science applied to software engineering. The first survey solicited questions that software engineers would like to ask data scientists to investigate about software, software processes and practices. This yielded 145 questions grouped in 12 categoriesThe second survey asked a different pool of software engineers to rate the 145 questions. Respondents favored questions that focus on how customers typically use their applications. The idea behind categorizing and cataloging 145 questions is to help researchers, practitioners, and educators to more easily focus on their efforts on topics that are important to the software industry.
 
-<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%201.jpg" width="500"/></div>
+<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%201.jpg" width="450"/></div>
 
 ###Keywords
 
@@ -36,8 +36,7 @@ Card sorting has three phases: in the preparation phase, cards for each question
 5.	Visualizations  
 The following affinity diagram summarizes the list of popular activities (in oval shape) that drew the attention of the respondents which are classified based on the job role (in box shape).
 
-![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg=100x20)
-
+<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg" width="300"/></div>
 
 ###Improvements
 
@@ -60,7 +59,7 @@ The authors in this paper tried to understand the questions that software engine
 
 2.	First survey yielded questions which were cataloged into the following categories
 
-![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg)
+<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%203.jpg" width="300"/></div>
 
 3.	Top 24 desired questions (rated essential or worthwhile) 
 
@@ -68,11 +67,12 @@ The authors in this paper tried to understand the questions that software engine
 (Icon with Setting) Questions that focus on engineering and effects of software development practices on work
 (Icon with Star) Questions concerned with product quality issues
 
-![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%204%20-%20Top%2024.jpg)
+<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%204%20-%20Top%2024.jpg" width="500"/></div>
+
 
 4.	Top 10 opposed questions (rated unwise)
-![alt tag](https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%204%20-%20Top%2010.jpg)
 
+<div style="text-align:center"><img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/5/Figure%204%20-%20Top%2010.jpg" width="500"/></div>
 
 ###Conclusion/Take Away
 1.	Researchers can use such survey results to collaborate with industry and influence their software development processes, practices and tools. Professionals can get idea about which factors to analyze. Educators can get guidance on what analytical techniques to teach.
