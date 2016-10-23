@@ -63,7 +63,7 @@ The authors in this paper tried to understand the questions that software engine
 
 3.	Top 24 desired questions (rated essential or worthwhile) 
 
-(Icon with People) Questions that concern about customers  
+   (Icon with People) Questions that concern about customers  
    (Icon with Setting) Questions that focus on engineering and effects of software development practices on work  
    (Icon with Star) Questions concerned with product quality issues
 
