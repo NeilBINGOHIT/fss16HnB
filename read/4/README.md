@@ -6,16 +6,16 @@ Software engineers have long been interested in where and why bugs occur in code
  
 ###Keywords
 
-1.	Sampling Bias 
+1.	Sampling Bias  
 When the data gathered does not represent the full population the sampling bias is said to be introduced. Sampling bias makes truly random sample impossible.
 
-2.	Hypothesis Testing 
+2.	Hypothesis Testing  
 Hypothesis testing is a method in which data is gathered relative to a proposed hypothesis and statistical methods are used to confirm or refute the hypothesis with a given degree of confidence.
 
-3.	Commit Feature Bias
+3.	Commit Feature Bias  
 It is likely that certain types of commit features are systematically over-represented or under-represented among the linked bugs. This representation is termed as commit feature bias.
 
-4.	Bug Feature Bias
+4.	Bug Feature Bias  
 It is likely that the properties of linked bugs look just like the properties of all fixed bugs. The authors define bug feature bias as over or under representing the linked bugs in the sample.
 
 
