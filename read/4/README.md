@@ -37,13 +37,13 @@ To validate the data retrieved, the authors manually scanned a random sample for
 
 ###Improvements
 
-1.	What if the authors did hypothesis testing on the wrong data set?
+1.	What if the authors did hypothesis testing on the wrong data set?  
 The authors acknowledge the fact that there is a possibility of coincidences in bug-occurrence and linking.
 
-2.	Manual inspection for false positives and false negatives
+2.	Manual inspection for false positives and false negatives  
 The manual verification of finding false positives and false negatives may yield subjective results
 
-3.	Proving that unbiased data negates the original hypothesis
+3.	Proving that unbiased data negates the original hypothesis  
 The authors proved that biased data can affect the prediction model but with lack of unbiased data they were not able to prove that the prediction model performs better for unbiased data set.
 
 ###Results
