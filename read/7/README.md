@@ -53,7 +53,8 @@ The authors of this paper were interested in the role of data and operational me
 
 ###Results
 1.	The majority of developers thinks about cloud mostly as a deployment and hosting technology following either the IaaS or PaaS model. For these developers, the ability to easily scale applications and the ease of infrastructure maintenance is what makes cloud unique. 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%202.jpg" width="500"/>
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%202.jpg" width="500"/>
 
 2.	The interviews also revealed that there is a large mindset gap between the developers who think of cloud as either IaaS or PaaS, and those who think of it mostly in terms of SaaS.
 3.	The quantitative results for the Likert-type scale questions from the survey are summarized as follows
@@ -64,7 +65,6 @@ The authors of this paper were interested in the role of data and operational me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%204.jpg" width="500"/>
 
-6.	The results show that developers need better means to anticipate runtime problems and rigorously define metrics for improved fault localization. And cloud offers an abundance of operational data, however, developers still often rely on their experience and intuition rather than utilizing metrics.
 
 ###Conclusion/Take Away
 1.	Cloud developers design for failure. Well known cloud users have adopted this mindset. Netflix, for instance, has stated that they use an application called [Chaos Money] (http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html) to randomly terminate cloud instances in production, to force the application design that can tolerate such failures when they happen unintentionally.
