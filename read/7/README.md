@@ -39,7 +39,7 @@ The results of discussion on the 4 topics – fault localization, monitoring and
 
    Furthermore, the authors extended their research by finding out how the usage of tools and production data changed in the cloud development projects. They reported how tooling evolved in cloud, what metrics are available and how they are utilized.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Image%20-%20new%20results%20tools.jpg" width="900"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Image%20-%20new%20results%20tools.jpg" width="900"/>
 
 ###Improvements
 1.	The 25 cloud developers, that were interviewed, raises a question that to what extent do they represent to the overall population of cloud developers. This can be resolved by re-producing similar results on a different set of cloud developers.
@@ -48,7 +48,7 @@ The results of discussion on the 4 topics – fault localization, monitoring and
 
 3.	The authors could have dived deep into metrics. They could have asked the participants (developers) which metrics they would like to user and why. Analysis on the results would have helped the community decide on which metrics to focus.
 
-###Connection to Paper 1 [https://github.com/NeilBINGOHIT/fss16gNS/tree/master/read/1]
+###Connection to [Paper 1](https://github.com/NeilBINGOHIT/fss16gNS/tree/master/read/1)
 The authors of this paper were interested in the role of data and operational metrics in cloud development. This was the basis of paper 1, where the authors pointed out that software development decisions should be largely based on metrics. By the extending this rule, the authors of this paper show that metrics indeed plays a major role in cloud development.
 
 ###Results
@@ -59,7 +59,7 @@ The authors of this paper were interested in the role of data and operational me
 2.	The interviews also revealed that there is a large mindset gap between the developers who think of cloud as either IaaS or PaaS, and those who think of it mostly in terms of SaaS.
 3.	The quantitative results for the Likert-type scale questions from the survey are summarized as follows
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%203.jpg" width="800"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%203.jpg" width="1000"/>
 
 4.	The interviews show that elasticity, ease of infrastructure maintenance and automation drive most of the changes of software development in the cloud. These can be broken down into two aspects i.e. API-driven infrastructure at scale and volatility of cloud instances.
 5.	As part of the survey, the participants were asked whether they faced limitations in application architecture and design specific to the cloud. The results were as follows
