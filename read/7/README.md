@@ -67,9 +67,9 @@ The authors of this paper were interested in the role of data and operational me
 
 
 ###Conclusion/Take Away
-1.	Cloud developers design for failure. Well known cloud users have adopted this mindset. Netflix, for instance, has stated that they use an application called [Chaos Money] (http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html) to randomly terminate cloud instances in production, to force the application design that can tolerate such failures when they happen unintentionally.
+1.	**Cloud developers design for failure**. Well known cloud users have adopted this mindset. Netflix, for instance, has stated that they use an application called [Chaos Money] (http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html) to randomly terminate cloud instances in production, to force the application design that can tolerate such failures when they happen unintentionally.
 
-2.	Cloud developers design for scalability. The [Twelve-Factor] (http://12factor.net/) app design manifesto is the de-facto standard when it comes to best practices when building cloud applications.
+2.	**Cloud developers design for scalability**. The [Twelve-Factor] (http://12factor.net/) app design manifesto is the de-facto standard when it comes to best practices when building cloud applications.
 
 3.	**How does the development and operation of applications change in a cloud environment?** In the cloud, servers are volatile. They are regularly terminated and re-created, often without direct influence of the cloud developer. Our study has shown that the concept of API-driven infrastructure-at-scale and the cloud instance volatility have ripple effects throughout the entire application development and operations process. They restrict the design of cloud applications and force developers to heavily rely on infrastructure automation, log management, and metrics centralization. While these concepts are also useful in non-cloud environments, they are mandatory for successful application development and operation in the cloud.
 
