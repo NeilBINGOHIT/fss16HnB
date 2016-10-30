@@ -53,14 +53,12 @@ The authors of this paper were interested in the role of data and operational me
 
 ###Results
 1.	The majority of developers thinks about cloud mostly as a deployment and hosting technology following either the IaaS or PaaS model. For these developers, the ability to easily scale applications and the ease of infrastructure maintenance is what makes cloud unique. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%202.jpg" width="500"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%202.jpg" width="500"/>
 
 2.	The interviews also revealed that there is a large mindset gap between the developers who think of cloud as either IaaS or PaaS, and those who think of it mostly in terms of SaaS.
 3.	The quantitative results for the Likert-type scale questions from the survey are summarized as follows
-
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%203.jpg" width="1000"/>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/NeilBINGOHIT/fss16gNS/blob/shrenuj/read/7/Figure%203.jpg" width="1000"/>
+  
 4.	The interviews show that elasticity, ease of infrastructure maintenance and automation drive most of the changes of software development in the cloud. These can be broken down into two aspects i.e. API-driven infrastructure at scale and volatility of cloud instances.
 5.	As part of the survey, the participants were asked whether they faced limitations in application architecture and design specific to the cloud. The results were as follows
 
