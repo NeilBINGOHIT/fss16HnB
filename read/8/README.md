@@ -11,11 +11,13 @@ In Agile software development methods, the focus is in lightweight working pract
 2.	Kaban  
 Kaban is neither a software development lifecycle methodology nor a project management approach. Instead, it can be applied to incrementally applied to change and improve some underlying, existing process. 
 
-3.	Systematic Literature Review  
+3.	Lean  
+It is a software development process translated from lean manufacturing. It was adopted from Toyota Production systems. It shares similar values and principles with Agile Methods.
+
+4.	Systematic Literature Review  
 It is a study methodology that aggregates and synthesizes existing knowledge, identifies the gap in earlier research and provides background information to start investigating a new research topic. 
 
-4.	Lean  
-It is a software development process translated from lean manufacturing. It was adopted from Toyota Production systems. It shares similar values and principles with Agile Methods.
+
 
 ###Features	
 1.	Motivational Statement  
