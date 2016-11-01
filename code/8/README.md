@@ -16,6 +16,7 @@ Steps
 * Go to classify - choose **NaiveBayes** and click on start
 * Record the precision and recall values
 
+
 | Datasets     | selected features / all features   | precision (selected/all) | recall (selected/all) |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 |  credit-g.arff |  9 / 20 | 0.721 / 0.763 | 0.738 / 0.772 |
@@ -32,19 +33,21 @@ Steps
 * Go to classify - choose **NaiveBayes** and click on start
 * Record the precision and recall values
 * Go to select attributes tab  
-   * Under **Attribute Evaluator** select **CfsSbusetEval**
+   * Under **Attribute Evaluator** select **WrapperSubsetEval**
+   * Edit the classifier as RandomTree
 * Mark the selected arrtributes; invert and remove the other attributes
 * Go to classify - choose **NaiveBayes** and click on start
 * Record the precision and recall values
 
+
 | Datasets     | selected features / all features | precision (selected/all) | recall (selected/all) |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-|  credit-g.arff |  5 / 8 | 0. / 0. | 0. / 0. |
-|  glass.arff | 6 / 9  | 0. / 0.  | 0. / 0. |
-|  iris.arff | 15 / 20 | 0. / 0. | 0. / 0. |
-|  ionosphere.arff | 5 / 34  | 0. / 0.  | 0. / 0. |
-|  labor.arff | 3 / 16 | 0. / 0. | 0. / 0. |
-|  vote.arff | 3 / 4 | 0. / 0. | 0. / 0. |
+|  credit-g.arff |  3 / 20 | 0.736 / 0.763 | 0.748 / 0.772 |
+|  glass.arff | 4 / 9  | 0.526 / 0.564  | 0.523 / 0.556 |
+|  iris.arff | 1 / 4  | 0.960 / 0.960 | 0.960 / 0.960 |
+|  ionosphere.arff | 8 / 34  | 0.923 / 0.844  | 0.923 / 0.829 |
+|  labor.arff | 3 / 16 | 0.899 / 0.983 | 0.895 / 0.982 |
+|  vote.arff | 3 / 16 | 0.946 / 0.907 | 0.945 / 0.903 |
 
 ##SubPart 3 - Filter feature selection 
 
@@ -53,16 +56,17 @@ Steps
 * Go to classify - choose **NaiveBayes** and click on start
 * Record the precision and recall values
 * Go to select attributes tab  
-   * Under **Attribute Evaluator** select **InfoGainAttributeEval**
+   * Under **Attribute Evaluator** select **CFSSubsetEval**
 * Mark the selected arrtributes; invert and remove the other attributes
 * Go to classify - choose **NaiveBayes** and click on start
 * Record the precision and recall values
 
+
 | Datasets     | selected features / all features | precision (selected/all) | recall (selected/all) |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-|  credit-g.arff |  5 / 8 | 0. / 0. | 0. / 0. |
-|  glass.arff | 6 / 9  | 0. / 0.  | 0. / 0. |
-|  iris.arff | 15 / 20 | 0. / 0. | 0. / 0. |
-|  ionosphere.arff | 5 / 34  | 0. / 0.  | 0. / 0. |
-|  labor.arff | 3 / 16 | 0. / 0. | 0. / 0. |
-|  vote.arff | 3 / 4 | 0. / 0. | 0. / 0. |
+|  credit-g.arff |  3 / 20 | 0.736 / 0.763 | 0.748 / 0.772 |
+|  glass.arff | 4 / 9  | 0.526 / 0.564  | 0.523 / 0.556 |
+|  iris.arff | 1 / 4  | 0.960 / 0.960 | 0.960 / 0.960 |
+|  ionosphere.arff | 8 / 34  | 0.923 / 0.844  | 0.923 / 0.829 |
+|  labor.arff | 3 / 16 | 0.899 / 0.983 | 0.895 / 0.982 |
+|  vote.arff | 3 / 16 | 0.946 / 0.907 | 0.945 / 0.903 |
