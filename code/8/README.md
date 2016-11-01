@@ -26,7 +26,16 @@ Steps
 |  vote.arff | 5 / 16 | 0.931 / 0.907 | 0.931 / 0.903 |
 
 ##SubPart 2 - Wrapper feature selection 
-- classifier subset eval and classifier used is NB (selected features/all features)
+
+Steps
+* Select the .arff file
+* Go to classify - choose **NaiveBayes** and click on start
+* Record the precision and recall values
+* Go to select attributes tab  
+   * Under **Attribute Evaluator** select **CfsSbusetEval**
+* Mark the selected arrtributes; invert and remove the other attributes
+* Go to classify - choose **NaiveBayes** and click on start
+* Record the precision and recall values
 
 | Datasets     | selected features / all features | precision (selected/all) | recall (selected/all) |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
@@ -38,7 +47,16 @@ Steps
 |  vote.arff | 3 / 4 | 0. / 0. | 0. / 0. |
 
 ##SubPart 3 - Filter feature selection 
-- infogain  (selected features/all features)
+
+Steps
+* Select the .arff file
+* Go to classify - choose **NaiveBayes** and click on start
+* Record the precision and recall values
+* Go to select attributes tab  
+   * Under **Attribute Evaluator** select **InfoGainAttributeEval**
+* Mark the selected arrtributes; invert and remove the other attributes
+* Go to classify - choose **NaiveBayes** and click on start
+* Record the precision and recall values
 
 | Datasets     | selected features / all features | precision (selected/all) | recall (selected/all) |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
