@@ -73,7 +73,7 @@ class Table:
         print str(rowToCheck) + '\nClosest Row is: ' + str(closest_row) + '\nFurthest Row is: ' + str(furthest_row)
 
 if __name__ == '__main__':
-    file = 'weather.csv'
+    file = 'diabetes.csv'
     table = Table(file)
     table.addRow()
     # table.printFormat()

@@ -30,12 +30,29 @@ class KNN:
         return sortedVotes[0][0]
         
 
-trainData = tableReader.Table(sys.argv[2])
-trainData.addRow()
-testData = tableReader.Table(sys.argv[3])
-testData.addRow()
-knnLearner = KNN(trainData,1)
+
+# Mini-Batch kmeans
+class MBKmeans:
+    # k = 20 centers
+    # paras: k, mini-batch size b, iterations t, data set x
+    def __init__(self, k, b, x):
+        self.clusters = None 
+        
+    def kmeans(self, t):
+        if self.cluster is None:
+            self.clusters = tableReader.Table(dataFile)
+            self.clusters = 
+
+class KDTree:
+    def __init__(self, k):
+        self.k = k
+
+
+
+table = tableReader.Table('weather.csv')
+table.addRow()
+testLearner = KNN(table,1)
 prediction = []
-for row in testData.rows:
-    prediction.append(knnLearner.knn(trainData.rows, row))
+for row in table.rows:
+    prediction.append(testLearner.knn(table.rows, row))
 print prediction
