@@ -700,6 +700,24 @@ that all the `pf` results are very similar. So we'll declare `j48` to be the ove
         1 ,       rbfnet ,       9  ,     5 (     -----   * |----          ), 4,  7,  9, 11, 14
         1 ,         bnet ,      11  ,     6 (        -----  |*   ------    ), 6,  9, 11, 14, 18
 
+
+eg11() {
+    local data="data/jedit-4.1.arff"         # edit this line to change the data
+    local learners="j48 jrip nb rbfnet bnet zeror" # edit this line to change the leaners
+    local goal=true                          # edit this line to hunt for another goal
+
+    local i="$Tmp/eg11"
+    if [ -f "$i.pd" ]; then
+       report pd "$i"
+       report pf "$i"
+    else
+        crossval 5 5 "$data" $Seed $learners | grep $goal >"$i"
+        gawk  '{print $2,$10}' "$i" > "$i.pd"
+        gawk  '{print $2,$11}' "$i" > "$i.pf"
+        eg11
+   fi
+}
+
 ## Experiments
 
 The following code comes from papers I am writing right now. This code is hence highly unstable.
@@ -1221,9 +1239,12 @@ j4810() {
 	local learner=weka.classifiers.trees.J48
 	$Weka $learner	-C 0.25 -M 2 -i -t $1 
 }
+# zeror() {
+#         local learner=weka.classifiers.rules.ZeroR
+#   $Weka $learner -p 0 -t $1 -T $2
+# }
 zeror() {
-        local learner=weka.classifiers.rules.ZeroR
-	$Weka $learner -p 0 -t $1 -T $2
+    python -B $Here/zeror.py $1 $2
 }
 zeror10() {
         local learner=weka.classifiers.rules.ZeroR
