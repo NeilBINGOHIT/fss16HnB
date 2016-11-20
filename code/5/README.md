@@ -56,3 +56,4 @@ nb :  0.0107860565186  sec
 minibatch :  0.293381500244  sec
 kdTree :  0.014032793045  sec
 ```
+The above timings shows that naive bayes is faster than other learners
