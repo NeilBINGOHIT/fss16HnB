@@ -126,4 +126,4 @@ freq :  0.00977435112  sec
 width :  0.0157612323761  sec
 
 ```
-The aboeve results show that discreatization rarely hurt NB (which is consistent with Doughery et al. result)
+The above results show that discreatization rarely hurt NB (which is consistent with Doughery et al. result)
