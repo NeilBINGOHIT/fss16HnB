@@ -55,12 +55,12 @@ class Table:
                 d    += inc
         return (d**(1/f)) / (n**(1/f))
 
-    def closestAndFurthest(self, rowToCheck):
+    def closestAndFurthest(self, rowToCheck, data):
         closest_dist = 2
         furthest_dist = 0
         closest_row = None
         furthest_row = None
-        for row in self.rows:
+        for row in data:
             if row is not rowToCheck:
                 dist = self.distance(row, rowToCheck)
                 if closest_dist > dist:
@@ -70,8 +70,8 @@ class Table:
                     furthest_dist = dist
                     furthest_row = row
         
-        print str(rowToCheck) + '\nClosest Row is: ' + str(closest_row) + '\nFurthest Row is: ' + str(furthest_row)
-
+        #print str(rowToCheck) + '\nClosest Row is: ' + str(closest_row) + '\nFurthest Row is: ' + str(furthest_row)
+        return closest_row, furthest_row
 if __name__ == '__main__':
     file = 'weather.csv'
     table = Table(file)
