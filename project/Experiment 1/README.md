@@ -1,6 +1,6 @@
 Results for naive bayes when top 3 features are selected (based on Info Gain) after log filtering 
 
-'''
+```
 pc1.csv
 
 RECALL FOR :  pc1.csv
@@ -125,4 +125,4 @@ rank ,         name ,    med   ,  iqr
 
 RUNTIME
 {'NB': 0.04799938201904297}
-
+```
